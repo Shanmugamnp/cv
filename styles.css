@@ -1,0 +1,33 @@
+body{
+    background-color:#95D1CC;
+  }
+  h1{
+    color:#064663;
+    font-style:normal;
+    font-weight:200;
+    font-variant:normal;
+    font-family:fantasy;
+
+
+  }
+  h2{
+    color:#064663;
+    font-family:sans-serif;
+  }
+  h3{
+    color:#064663;
+    font-family:sans-serif;
+  }
+  hr{
+    background-color:none;
+    border-color:grey;
+    border-style:none;
+    border-top-style: dotted;
+    border-width: 20px;
+    height:0px;
+    width:25%;
+  }
+  img{
+    height: 250px;
+    border-radius: 100%;
+  }
